@@ -5,3 +5,5 @@
 ``` swift
 var myVar = "Hello, world!";
 ```
+
+- [x] Turn on Guthub Pages
