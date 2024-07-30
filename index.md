@@ -4,6 +4,7 @@
 
 ``` swift
 var myVar = "Hello, world!";
+myVar =  ""
 ```
 
 - [ ] Turn on GitHub Pages
